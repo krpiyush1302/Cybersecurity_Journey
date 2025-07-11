@@ -49,7 +49,7 @@ If you’re a recruiter or cybersecurity enthusiast — feel free to explore, co
 
 ## 🌐 Connect with Me
 - **GitHub:** [Piyush](https://github.com/krpiyush1302)
-- **TryHackMe:** ![SOCxPiyush 🔗](https://tryhackme.com/p/SOCxPiyush)
+- **TryHackMe:** [SOCxPiyush 🔗](https://tryhackme.com/p/SOCxPiyush)
 - **LinkedIn:** [Piyush Raj 🔗](https://www.linkedin.com/in/piyushraj-infosec/)
 
 ---

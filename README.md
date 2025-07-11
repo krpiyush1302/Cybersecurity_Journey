@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Journey – SOC Analyst & Security Engineer Portfolio
 
-Welcome to my cybersecurity journey! I'm actively learning, practicing, and sharing my progress toward becoming a SOC Analyst / Security Engineer.
+Welcome to my Cybersecurity journey! I'm actively learning, practicing, and sharing my progress toward becoming a SOC Analyst / Security Engineer.
 
 ## 🔰 About Me
 **Name:** Piyush Raj  

@@ -3,9 +3,9 @@
 Welcome to my Cybersecurity journey! I'm actively learning, practicing, and sharing my progress toward becoming a SOC Analyst / Security Engineer.
 
 ## 🔰 About Me
-**Name:** Piyush Raj  
-**OS Used:** Kali Linux & Windows
-**Current Rank:** Top 7.5% on TryHackMe  
+**Name:** Piyush Raj  <br>
+**OS Used:** Kali Linux & Windows <br>
+**Current Rank:** Top 7.5% on TryHackMe   <br>
 **Goal:** Land a SOC Analyst or Security Engineer role at Top Companies.
 
 ---
@@ -13,7 +13,7 @@ Welcome to my Cybersecurity journey! I'm actively learning, practicing, and shar
 # 📄 Description
 I’m currently on a mission to become a SOC Analyst / Security Engineer by building a strong foundation in cybersecurity through hands-on labs, certifications, and real-world tools. This GitHub repository is a live tracker of my journey — showcasing:
 
-✅ Weekly learning goals and achievements
+✅ Weekly learning goals and achievements <br>
 🔧 Practical lab reports using Burp Suite, Splunk, and Wireshark <br>
 🏅 Verified certifications from Cisco, Fortinet, and IBM SkillsBuild <br>
 📑 Writeups on real-world attack scenarios like XSS, SQL Injection, and Log Analysis <br>

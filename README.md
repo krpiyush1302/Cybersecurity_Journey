@@ -14,9 +14,9 @@ Welcome to my Cybersecurity journey! I'm actively learning, practicing, and shar
 I’m currently on a mission to become a SOC Analyst / Security Engineer by building a strong foundation in cybersecurity through hands-on labs, certifications, and real-world tools. This GitHub repository is a live tracker of my journey — showcasing:
 
 ✅ Weekly learning goals and achievements
-🔧 Practical lab reports using Burp Suite, Splunk, and Wireshark
-🏅 Verified certifications from Cisco, Fortinet, and IBM SkillsBuild
-📑 Writeups on real-world attack scenarios like XSS, SQL Injection, and Log Analysis
+🔧 Practical lab reports using Burp Suite, Splunk, and Wireshark <br>
+🏅 Verified certifications from Cisco, Fortinet, and IBM SkillsBuild <br>
+📑 Writeups on real-world attack scenarios like XSS, SQL Injection, and Log Analysis <br>
 📈 Continuous improvement based on platforms like TryHackMe, HackTheBox, and CyberDefenders
 
 This repository is both a portfolio and a learning journal — intended to demonstrate my skills to employers while helping others entering the field. I’m currently ranked in the top 7.5% on TryHackMe, using Kali Linux for all my labs.

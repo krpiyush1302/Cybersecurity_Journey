@@ -39,7 +39,8 @@ If you’re a recruiter or cybersecurity enthusiast — feel free to explore, co
 ## 🏅 Certificates Earned
 | Certification                     | Platform             | Link                                                |
 |-----------------------------------|----------------------|-----------------------------------------------------|
-| Cisco Basic                       | Cisco Skills for All | [View PDF](https://drive.google.com/file/d/1PscSCYviKf6EjdFG50_UiAzISpbeiv7Y/view?usp=sharing) |
+| Networking Basic                  | Cisco Skills for All | [View PDF](https://drive.google.com/file/d/1PscSCYviKf6EjdFG50_UiAzISpbeiv7Y/view?usp=sharing) |
+| Introduction to Cyber Security    | Cisco Skills for All | [View PDF](https://drive.google.com/file/d/1Nlz2QfHErnK8exhitcmxi9_V_Q0URo8A/view?usp=sharing) |
 | Carrer in Cyber Security          | Cybrary              | [View PDF](https://drive.google.com/file/d/15FfrLRRfdtbrOm94pquo3Zcot5s7hJkQ/view?usp=sharingf)          |
 | Tata Cyber Security Analyst       | Forage               | [View PDF](https://drive.google.com/file/d/12bNACDP7PGvSIVyTMNzww1qhvIrAtVYo/view?usp=sharing)                                         |
 | Defensive Security and Cyber Risk | Cybrary              | [View PDF](https://app.cybrary.it/profile/TopFerret7673?tab=cert-completion&cert=CC-e327f7c0-278e-472b-9a8c-a54c429cc3c6)                            

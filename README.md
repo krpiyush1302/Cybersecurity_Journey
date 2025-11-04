@@ -1,8 +1,8 @@
-🛡️ Cybersecurity Journey – SOC Analyst & Security Engineer Portfolio
+## 🛡️ Cybersecurity Journey – SOC Analyst & Security Engineer Portfolio
 
 Welcome to my Cybersecurity journey! I'm actively learning, practicing, and sharing my progress toward becoming a SOC Analyst / Security Engineer.
 
-🔰 About Me
+## 🔰 About Me
 
 Name: Piyush Raj <br>
 OS Used: Kali Linux & Windows <br>
@@ -10,13 +10,13 @@ Current Rank: Top 7.5% on TryHackMe <br>
 Goal: Land a SOC Analyst or Security Engineer role at top companies.
 Progress Style: Daily logs + weekly summaries pushed to GitHub ✅
 
-📄 Description
+## 📄 Description
 
 I’m currently on a mission to become a SOC Analyst / Security Engineer by building a strong foundation in cybersecurity through hands-on labs, certifications, and real-world tools.
 This GitHub repository acts as a live tracker of my journey, showcasing:
 
 
-✅ Weekly learning goals and achievements <br>
+## ✅ Weekly learning goals and achievements <br>
 📝 Daily progress logs (Networking + Cybersecurity) <br>
 🔧 Practical lab reports using Burp Suite, Splunk, and Wireshark <br>
 🏅 Verified certifications from Cisco, Fortinet, and IBM SkillsBuild <br>
@@ -34,7 +34,8 @@ This repository is both a portfolio and a learning journal — intended to demon
 
 If you’re a recruiter or cybersecurity enthusiast — feel free to explore, connect, and collaborate!
 
-🛠️ Tools I’m Using
+
+## 🛠️ Tools I’m Using
 
 Burp Suite Professional
 

@@ -69,10 +69,8 @@ Event Viewer (Windows Logs)
 
 🌐 Connect with Me
 
-GitHub: Piyush
-
-TryHackMe: SOCxPiyush 🔗
-
-LinkedIn: Piyush Raj 🔗
+[![GitHub](https://img.shields.io/badge/GitHub-Piyush-black?logo=github)](...)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyush%20Raj-blue?logo=linkedin)](...)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-SOCxPiyush-red?logo=tryhackme)](...)
 
 "The only way to learn cybersecurity is by doing." – You, right now 😎

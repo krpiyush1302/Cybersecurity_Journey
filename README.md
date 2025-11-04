@@ -70,7 +70,7 @@ Event Viewer (Windows Logs)
 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Piyush-black?logo=github)](https://github.com/krpiyush1302)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyush%20Raj-blue?logo=linkedin)](https://www.linkedin.com/in/piyushraj-infosec/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyush%20Raj-blue?logo=linkedin)](https://www.linkedin.com/in/piyushraj-infosec)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-SOCxPiyush-red?logo=tryhackme)](https://tryhackme.com/p/SOCxPiyush)
 
 "The only way to learn cybersecurity is by doing." – You, right now 😎

@@ -1,38 +1,54 @@
-# 🛡️ Cybersecurity Journey – SOC Analyst & Security Engineer Portfolio
+🛡️ Cybersecurity Journey – SOC Analyst & Security Engineer Portfolio
 
 Welcome to my Cybersecurity journey! I'm actively learning, practicing, and sharing my progress toward becoming a SOC Analyst / Security Engineer.
 
-## 🔰 About Me
-**Name:** Piyush Raj  <br>
-**OS Used:** Kali Linux & Windows <br>
-**Current Rank:** Top 7.5% on TryHackMe   <br>
-**Goal:** Land a SOC Analyst or Security Engineer role at Top Companies.
+🔰 About Me
 
----
+Name: Piyush Raj <br>
+OS Used: Kali Linux & Windows <br>
+Current Rank: Top 7.5% on TryHackMe <br>
+Goal: Land a SOC Analyst or Security Engineer role at top companies.
+Progress Style: Daily logs + weekly summaries pushed to GitHub ✅
 
-# 📄 Description
-I’m currently on a mission to become a SOC Analyst / Security Engineer by building a strong foundation in cybersecurity through hands-on labs, certifications, and real-world tools. This GitHub repository is a live tracker of my journey — showcasing:
+📄 Description
+
+I’m currently on a mission to become a SOC Analyst / Security Engineer by building a strong foundation in cybersecurity through hands-on labs, certifications, and real-world tools.
+This GitHub repository acts as a live tracker of my journey, showcasing:
+
 
 ✅ Weekly learning goals and achievements <br>
+📝 Daily progress logs (Networking + Cybersecurity) <br>
 🔧 Practical lab reports using Burp Suite, Splunk, and Wireshark <br>
 🏅 Verified certifications from Cisco, Fortinet, and IBM SkillsBuild <br>
 📑 Writeups on real-world attack scenarios like XSS, SQL Injection, and Log Analysis <br>
 📈 Continuous improvement based on platforms like TryHackMe, HackTheBox, and CyberDefenders
 
+
+🔔 I push daily updates to GitHub under /Daily_Progress/ folder.
+Each day = one markdown log file with commands, screenshots, notes.
+
+
+If you're a recruiter, mentor, or cybersecurity learner — feel free to explore, fork, and connect!
+
 This repository is both a portfolio and a learning journal — intended to demonstrate my skills to employers while helping others entering the field. I’m currently ranked in the top 7.5% on TryHackMe, using Kali Linux for all my labs.
 
-If you’re a recruiter or cybersecurity enthusiast — feel free to explore, connect, and collaborate!  
+If you’re a recruiter or cybersecurity enthusiast — feel free to explore, connect, and collaborate!
 
----
+🛠️ Tools I’m Using
 
-## 🛠️ Tools I’m Using
-- **Burp Suite Professional Edition**
-- **Fiddler**
-- **Postman**
-- **Wireshark**
-- **Splunk (Free Edition)**
-- **TryHackMe VPN on Kali Linux**
-- **Event Viewer (Windows Logs)**
+Burp Suite Professional
+
+Fiddler
+
+Postman
+
+Wireshark
+
+Splunk (Free Edition)
+
+TryHackMe VPN on Kali Linux
+
+Event Viewer (Windows Logs)
 
 ---
 
@@ -50,11 +66,12 @@ If you’re a recruiter or cybersecurity enthusiast — feel free to explore, co
 ---
 
 
-## 🌐 Connect with Me
-- **GitHub:** [Piyush](https://github.com/krpiyush1302)
-- **TryHackMe:** [SOCxPiyush 🔗](https://tryhackme.com/p/SOCxPiyush)
-- **LinkedIn:** [Piyush Raj 🔗](https://www.linkedin.com/in/piyushraj-infosec/)
+🌐 Connect with Me
 
----
+GitHub: Piyush
 
-> "The only way to learn cybersecurity is by doing." – You, right now 😎
+TryHackMe: SOCxPiyush 🔗
+
+LinkedIn: Piyush Raj 🔗
+
+"The only way to learn cybersecurity is by doing." – You, right now 😎
